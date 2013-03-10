@@ -1,0 +1,9 @@
+{
+	"site-title": "Welcome to CoderKungfu's domain!",
+	"footer-text": "Built with <a href=\"http://laktek.github.com/punch\">Punch</a>",
+	"navbar": [
+        { "label": "ABOUT", "href": "/" },
+        { "label": "PRESENTATIONS", "href": "/slides.html" },
+        { "label": "CONTACT", "href": "/contact.html" }
+	]
+}

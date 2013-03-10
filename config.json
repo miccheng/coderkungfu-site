@@ -1,0 +1,23 @@
+{
+	"template_dir": "templates", 
+	"content_dir": "contents",
+	"output_dir": "output",
+
+	"server": { 
+		"port": 9009
+	},
+
+	"bundles": {
+		"/css/all.css": [
+			"/css/font-awesome.css",
+			"/css/font-awesome-ie7.css",
+			"/css/style.css"
+		],
+        "/js/all.js": [
+            "/js/jquery.fitvids.js",
+            "/js/jquery.tweet.js",
+            "/js/script.js",
+            "/js/speakerdeck.js"
+        ]
+	}
+}
