@@ -4,7 +4,7 @@ Michael Cheng has more than 10 years of experience using PHP to build dynamic we
 
 Michael is currently a Senior Software Engineer with a local mid-sized startup called mig33 - a social entertainment platform - that's popular in emerging economies like Indonesia and Nepal.
 
-Here's my [resume](https://github.com/miccheng/coderkungfu-site/wiki/Resume) and [CV](https://github.com/miccheng/coderkungfu-site/wiki/Portfolio).
+Here's my [resume](https://github.com/miccheng/coderkungfu-site/wiki/Resume) and [curriculum vitae](https://github.com/miccheng/coderkungfu-site/wiki/Curriculum-Vitae).
 
 ---
 
