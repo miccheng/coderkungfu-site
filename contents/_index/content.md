@@ -10,10 +10,32 @@ Here's my [resume](https://docs.google.com/file/d/0B9y9xTxP-IRQcVVHNEI5Q1ZUY2c/e
 
 #### Updates
 
-**[Intro to Web Programming with PHP (3 lessons)](https://secure.learnemy.com/groups/intro-to-web-programming-with-php-course) starting on 27 March 2013.**
+**[PHP Developer Summit in Philippines on 20 April 2013](http://conference.phpugph.com/index.php)**
 
-Learn to create an interactive website, upload your photos and store info online.
+So i will be speaking at the PHP Developers Summit at Pasig City, Philippines.
 
-There are 3 lessons in this series. This option is for attending all 3 lessons. To attend individual lessons at $75 each, please go to [this page](https://secure.learnemy.com/groups/intro-to-web-programming-with-php) instead. For enrollment before 13th Mar, you are entitled to an early bird pricing of $120.
+In celebration of our decade of passion in PHP and in partnership with Microsoft Philippines towards openness, PHP User Group Philippines (PHPUGPH) presents PHP Developers Summit 2013. Expected participants include professional PHP developers, web freelancers, PHP enthusiasts, companies utilizing PHP-related technologies and graduating students interested in pursuing web development careers.
 
-[Enroll Now!](https://secure.learnemy.com/groups/intro-to-web-programming-with-php-course)
+[Join Us!](http://conference.phpugph.com/index.php)
+
+---
+** [Singapore PHP User Group Meetup (April 2013)](https://www.facebook.com/events/351452121642236/) **
+
+Date: Tues, 30 April 2013<br/>
+Time: 7:30pm-10:30pm<br/>
+Venue: Microsoft Singapore, Level 22 (RM: 22cf12)
+
+**Topics:**
+
+1) **Supercharge your dev environment with Vagrant and Puppet**<br/>
+Speaker: Michael Cheng, Senior Software Engineer, mig33
+
+2) **Introduction to PHPStorm**<br/>
+Speaker: Arul Kumaran, Luracast
+
+3) **Magento eCommerce Performance Optimization**<br/>
+Speaker: Ashish Purohit, Sr, Software Analyst, Ranosys Technologies Pte Ltd.
+
+Venue Sponsor: Microsoft Singapore
+
+[Sign Up Here](https://www.facebook.com/events/351452121642236/)
