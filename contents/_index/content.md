@@ -14,7 +14,8 @@ Here's my [resume](https://github.com/miccheng/coderkungfu-site/wiki/Resume) and
 
 So i will be speaking at the Starting Up Conference on App Development.
 
+[Direct link to the slides.](http://j.mp/appdev101)[Google Doc of my notes. Feel free to add your comments.](http://j.mp/appdev101doc)
+
 **My Slide Deck**
 
 <script async class="speakerdeck-embed" data-id="593f3ae0f41b0130a2871a4cf8d5a7cc" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
-
