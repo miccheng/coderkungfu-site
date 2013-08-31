@@ -10,32 +10,11 @@ Here's my [resume](https://github.com/miccheng/coderkungfu-site/wiki/Resume) and
 
 #### Updates
 
-**[PHP Developer Summit in Philippines on 20 April 2013](http://conference.phpugph.com/index.php)**
+**[Ideas Inc. Starting Up Conference 2013](http://ideasinc.sg/startingup)**
 
-So i will be speaking at the PHP Developers Summit at Pasig City, Philippines.
+So i will be speaking at the Starting Up Conference on App Development.
 
-In celebration of our decade of passion in PHP and in partnership with Microsoft Philippines towards openness, PHP User Group Philippines (PHPUGPH) presents PHP Developers Summit 2013. Expected participants include professional PHP developers, web freelancers, PHP enthusiasts, companies utilizing PHP-related technologies and graduating students interested in pursuing web development careers.
+**My Slide Deck**
 
-[Join Us!](http://conference.phpugph.com/index.php)
+<script async class="speakerdeck-embed" data-id="593f3ae0f41b0130a2871a4cf8d5a7cc" data-ratio="1.2994923857868" src="//speakerdeck.com/assets/embed.js"></script>
 
----
-** [Singapore PHP User Group Meetup (April 2013)](https://www.facebook.com/events/351452121642236/) **
-
-Date: Tues, 30 April 2013<br/>
-Time: 7:30pm-10:30pm<br/>
-Venue: Microsoft Singapore, Level 22 (RM: 22cf12)
-
-**Topics:**
-
-1) **Supercharge your dev environment with Vagrant and Puppet**<br/>
-Speaker: Michael Cheng, Senior Software Engineer, mig33
-
-2) **Introduction to PHPStorm**<br/>
-Speaker: Arul Kumaran, Luracast
-
-3) **Magento eCommerce Performance Optimization**<br/>
-Speaker: Ashish Purohit, Sr, Software Analyst, Ranosys Technologies Pte Ltd.
-
-Venue Sponsor: Microsoft Singapore
-
-[Sign Up Here](https://www.facebook.com/events/351452121642236/)
