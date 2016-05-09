@@ -1,0 +1,14 @@
+---
+applications:
+  ".":
+    name: coderkungfu
+    framework:
+      name: php
+      info:
+        mem: 128M
+        description: PHP Application
+        exec: 
+    infra: ap-aws
+    url: "${name}.${target-base}"
+    mem: 128M
+    instances: 1
